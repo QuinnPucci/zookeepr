@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const { animals } = require('./data/animals');
 
-// search query handling
+// search query handling function
 function filterByQuery (query, animalsArray) {
     let personalityTraitsArray = []
     let filteredResults = animalsArray
@@ -13,7 +13,6 @@ function filterByQuery (query, animalsArray) {
         } else {
             personalityTraitsArray = query.personalityTraits
         }
-
         personalityTraitsArray.forEach(trait => {
             filteredResults = filteredResults.filter(
                 animal => animal. personalityTraits.indexOf(trait) !== -1
