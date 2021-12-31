@@ -1,0 +1,23 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "Node.js and Express.js server development showcase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinnPucci/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuinnPucci/zookeepr/issues"
+  },
+  "homepage": "https://github.com/QuinnPucci/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
