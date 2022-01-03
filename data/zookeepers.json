@@ -53,12 +53,7 @@
         "name": "Lernantino",
         "age": 19,
         "favoriteAnimal": "Business Cat"
-      },
-      {
-        "name": "Les",
-        "age": 64,
-        "favoriteAnimal": "Rabbit",
-        "id": "9"
       }
     ]
   }
+  
