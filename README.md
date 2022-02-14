@@ -11,9 +11,10 @@
   ## Description
   A fictional application for a zoo to keep track of employees and animals. Built as a portoflio piece to demonstrate full stack development skills. Includes CSS and front end UI as well as ExpressJS server development
   </br>
+  
   Technologies used: 
-    front-end: Handlebars, CSS, JavaScript
-    back-end: NodeJS, ExpressJS
+   - front-end: Handlebars, CSS, JavaScript
+   - back-end: NodeJS, ExpressJS
   
   ## Usage
   To test and use simply launch the app (deployed on heroku in link above) and signup
